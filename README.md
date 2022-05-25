@@ -2,7 +2,7 @@
 - 👀 I’m interested in HTML, CSS, PHP, Java;
 - 🌱 I’m currently learning JavaScript;
 <!--- 💞️ I’m looking to collaborate on Web Development;-->
-- 📫 How to reach me [...](https://www.linkedin.com/in/luiz-matheus-rodrigues-ventura-a317b122b/)
+- 📫 How to reach me on [linkedin](https://www.linkedin.com/in/luiz-matheus-rodrigues-ventura-a317b122b/)
 
 <!---
 lmrventura/lmrventura is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
